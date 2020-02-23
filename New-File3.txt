@@ -1,2 +1,7 @@
+************
+for testing the merge opearation of branch edited files 
+***********
+
+
 11:55 PM 2/23/2020
-new file 3 crreated for branchig learning 
+new file 3  for branchig learning "appending text" ; deleted crreated
